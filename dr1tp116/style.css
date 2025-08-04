@@ -1,0 +1,13 @@
+h1 {
+  text-decoration: underline;
+}
+#card {
+  border: 3px solid blue;
+  border-radius: 8px;
+  height: 100px;
+  width: 100px;
+}
+p {
+  text-align: right;
+  font: bold italic 20px "arial";
+}

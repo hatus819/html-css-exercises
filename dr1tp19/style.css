@@ -1,0 +1,12 @@
+h1 {
+  text-decoration: underline;
+}
+#nome {
+  color: green;
+}
+.curso {
+  color: blue;
+}
+span {
+  color: yellow;
+}

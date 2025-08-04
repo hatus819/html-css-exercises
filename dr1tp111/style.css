@@ -1,0 +1,10 @@
+h1 {
+  text-decoration: underline;
+}
+#modal {
+  border: 1px solid blue;
+  background-color: gray;
+  height: 300px;
+  width: 400px;
+  border-radius: 6px;
+}

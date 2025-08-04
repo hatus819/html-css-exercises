@@ -1,0 +1,10 @@
+h1 {
+  text-decoration: underline;
+}
+#modal {
+  border: 1px solid black;
+  font: 12px "verdana";
+  text-align: center;
+  word-spacing: 1.3px;
+  text-decoration: purple;
+}
